@@ -1,0 +1,6 @@
+/* App-specific styles can go here if needed, but Tailwind is used for most styling */
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900;
+  }
+}
