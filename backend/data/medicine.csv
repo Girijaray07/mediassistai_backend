@@ -1,0 +1,605 @@
+medical_condition,ayurvedic_supplement
+acne,Cocoa Extract
+acne,
+acne,L-Carnitine
+aerobic-exercise-performance,Branched-Chain Amino Acids
+aerobic-exercise-performance,Caffeine
+allergic-rhinitis,Astragalus
+allergic-rhinitis,
+allergic-rhinitis,Black seed
+allergic-rhinitis,Bromelain
+allergic-rhinitis,
+allergic-rhinitis,Chinese sweet leaf
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Guduchi
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Lactobacillus Reuteri
+allergic-rhinitis,
+allergic-rhinitis,MSM
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Rosmarinic Acid
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Royal Jelly
+allergic-rhinitis,
+allergic-rhinitis,Sauna
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Serrapeptase
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Spirulina
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,
+allergic-rhinitis,Stinging Nettle
+allergic-rhinitis,
+allergic-rhinitis,
+alzheimers-disease,Alpha-GPC
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Alpha-Lipoic Acid
+alzheimers-disease,
+alzheimers-disease,Bacopa Monnieri
+alzheimers-disease,
+alzheimers-disease,Curcumin
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,DMAE
+alzheimers-disease,
+alzheimers-disease,Fish Oil
+alzheimers-disease,
+alzheimers-disease,Ginkgo Biloba
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Inositol
+alzheimers-disease,
+alzheimers-disease,Kanna
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Light Therapy
+alzheimers-disease,
+alzheimers-disease,Lion's Mane
+alzheimers-disease,
+alzheimers-disease,Medium-chain Triglycerides
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Omega-3 Fatty Acids
+alzheimers-disease,
+alzheimers-disease,Oxiracetam
+alzheimers-disease,
+alzheimers-disease,Panax Ginseng (Korean Ginseng)
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Phosphatidylserine
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Piracetam
+alzheimers-disease,
+alzheimers-disease,Resveratrol
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Saffron
+alzheimers-disease,
+alzheimers-disease,
+alzheimers-disease,Vitamin D
+alzheimers-disease,
+alzheimers-disease,Vitamin E
+alzheimers-disease,
+alzheimers-disease,
+asthma,Black seed
+asthma,Boswellia
+asthma,
+asthma,Caffeine
+asthma,
+asthma,Citrulline
+asthma,
+asthma,
+asthma,Coleus forskohlii
+asthma,
+asthma,Conjugated Linoleic Acid
+asthma,
+asthma,Fish Oil
+asthma,
+asthma,
+asthma,L-Carnitine
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,Lactobacillus Reuteri
+asthma,
+asthma,Magnesium
+asthma,
+asthma,
+asthma,Moringa
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,Probiotics
+asthma,
+asthma,Pycnogenol
+asthma,
+asthma,Resveratrol
+asthma,
+asthma,
+asthma,
+asthma,Saffron
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,Spirulina
+asthma,
+asthma,Vitamin D
+asthma,
+asthma,
+asthma,
+asthma,
+asthma,Vitamin E
+asthma,
+asthma,
+cardiovascular-disease,Vegan Diet
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,Vitamin D
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,Vitamin E
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,Vitamin K
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,Whey Protein
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,Zinc
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cardiovascular-disease,
+cataracts,Vitamin C
+cataracts,
+cataracts,Vitamin E
+cataracts,
+cataracts,
+celiac-disease,L-Carnitine
+celiac-disease,
+chronic-kidney-disease,Astaxanthin
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Black seed
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Chia seeds
+chronic-kidney-disease,
+chronic-kidney-disease,Cocoa Extract
+chronic-kidney-disease,
+chronic-kidney-disease,Coenzyme Q10
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Creatine
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Curcumin
+chronic-kidney-disease,
+chronic-kidney-disease,Fish Oil
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Folic Acid (Vitamin B9)
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Fruits And Vegetables
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Grape Juice
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,L-Carnitine
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Low-Protein Diet
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Magnesium
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Mediterranean Diet
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Melatonin
+chronic-kidney-disease,
+chronic-kidney-disease,Resistant Starch
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Resveratrol
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Selenium
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Sodium Bicarbonate
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Soy Isoflavones
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Soy Protein
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Vitamin C
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Vitamin E
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Vitamin K
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,
+chronic-kidney-disease,Yarrow
+chronic-kidney-disease,
+chronic-obstructive-pulmonary-disease,Beetroot
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Cannabis
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Creatine
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Curcumin
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Fish Oil
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Glutamine
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,L-Carnitine
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,N-Acetylcysteine
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Nicotinamide Riboside
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Nitrate
+chronic-obstructive-pulmonary-disease,Resveratrol
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Rhodiola Rosea
+chronic-obstructive-pulmonary-disease,Sauna
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Traditional Chinese Medicine
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,
+chronic-obstructive-pulmonary-disease,Vitamin D
+chronic-obstructive-pulmonary-disease,
+colorectal-cancer,Creatine
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,Curcumin
+colorectal-cancer,
+colorectal-cancer,Folic Acid (Vitamin B9)
+colorectal-cancer,
+colorectal-cancer,Ginger
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,Glutamine
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,Kefir
+colorectal-cancer,Ketogenic Diet
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,Red Clover Extract
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,
+colorectal-cancer,Reishi
+colorectal-cancer,
+colorectal-cancer,Vitamin D
+colorectal-cancer,
+common-cold,ECA
+common-cold,
+common-cold,Echinacea
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,Elderberry
+common-cold,
+common-cold,Ephedrine
+common-cold,
+common-cold,Garlic
+common-cold,
+common-cold,King of Bitters
+common-cold,
+common-cold,
+common-cold,Panax Ginseng (Korean Ginseng)
+common-cold,
+common-cold,Sauna
+common-cold,
+common-cold,Vitamin C
+common-cold,
+common-cold,
+common-cold,
+common-cold,Vitamin D
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+common-cold,Zinc
+common-cold,
+common-cold,
+common-cold,
+common-cold,
+constipation,Inulin
+constipation,
+constipation,Jujube
+constipation,
+constipation,Kefir
+constipation,
+constipation,Lactobacillus Reuteri
+constipation,
+constipation,
+constipation,Magnesium
+constipation,
+constipation,Psyllium
+constipation,
+constipation,
+constipation,
+constipation,Senna
+constipation,
+constipation,
+coronary-artery-disease,Berberine
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,Betaine
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,Black seed
+coronary-artery-disease,
+coronary-artery-disease,Cocoa Extract
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,
+coronary-artery-disease,Coenzyme Q10
