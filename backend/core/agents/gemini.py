@@ -18,6 +18,7 @@ class GeminiAgent(BaseAgent):
             contents=prompt,
             config={
                 "system_instruction": settings.SYSTEM_PROMPT,
+                "temperature": 0.1
             }
         )
         
