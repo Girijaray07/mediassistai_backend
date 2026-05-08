@@ -21,6 +21,7 @@ dependencies = [
     "psycopg2-binary>=2.9.12",
     "pydantic-settings>=2.14.0",
     "pandas>=3.0.2",
+    "rapidfuzz>=3.14.5",
 ]
 
 [dependency-groups]
