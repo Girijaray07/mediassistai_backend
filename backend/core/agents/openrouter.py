@@ -4,7 +4,7 @@ from core.config import settings
 from typing import AsyncGenerator
 import asyncio
 
-class Hermes3Agent(BaseAgent):
+class OpenRouterAgent(BaseAgent):
     def __init__(self):
         self.client = OpenAI(
             base_url="https://openrouter.ai/api/v1",

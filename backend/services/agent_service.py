@@ -1,14 +1,14 @@
 from typing import AsyncGenerator
 from core.agents.gemini import GeminiAgent
 from core.agents.ollama import OllamaAgent
-from core.agents.hermes3 import Hermes3Agent
+from core.agents.openrouter import OpenRouterAgent
 from services.medical_service import medical_service
 import asyncio
 
 class AgentService:
     def __init__(self):
         self.primary_agent = GeminiAgent()
-        self.fallback_agent = Hermes3Agent()
+        self.fallback_agent = OpenRouterAgent()
 
     async def chat_stream(self, prompt: str) -> AsyncGenerator[str, None]:
         # 1. Retrieval Layer: Check for medical conditions in the database
