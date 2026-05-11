@@ -15,13 +15,13 @@ const FeatureCard = ({ icon: Icon, title, description, disabled }) => (
 const WelcomeScreen = ({ onPromptClick }) => {
   const suggestedPrompts = [
     "What could cause persistent headaches?",
-    "Explain my CBC report values",
+    "Explain CBC report values",
     "What are normal blood sugar levels?",
     "Suggest diet for high cholesterol"
   ];
 
   return (
-    <div className="max-w-4xl mx-auto py-12 px-6">
+    <div className="max-w-5xl mx-auto py-12 px-6">
       <div className="text-center mb-12">
         <div className="bg-emerald-50 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6 text-emerald-600">
           <Stethoscope size={32} />
@@ -32,7 +32,7 @@ const WelcomeScreen = ({ onPromptClick }) => {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
+      {/* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
         <FeatureCard 
           icon={Activity} 
           title="Ask Health Questions" 
@@ -54,7 +54,7 @@ const WelcomeScreen = ({ onPromptClick }) => {
           title="Private & Secure" 
           description="Your medical data is encrypted and remains private."
         />
-      </div>
+      </div> */}
 
       <div>
         <h4 className="text-sm font-semibold text-slate-500 uppercase tracking-wider mb-4 px-1">Suggested Prompts</h4>

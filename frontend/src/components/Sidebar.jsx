@@ -3,8 +3,8 @@ import { Plus, MessageSquare, HeartPulse } from 'lucide-react';
 
 const Sidebar = ({ conversations, activeId, onNewChat, onSelectChat }) => {
   return (
-    <div className="w-64 bg-slate-50 h-screen border-r border-slate-200 flex flex-col p-4 fixed left-0 top-0">
-      <div className="flex items-center gap-3 p-2 mb-4">
+    <div className="w-54 bg-slate-50 h-screen border-r border-slate-200 flex flex-col p-4 fixed left-0 top-0">
+      <a className="flex items-center gap-3 p-2 mb-4 cursor-pointer" href="/">
         <div className="bg-emerald-100 p-2 rounded-lg">
           <HeartPulse className="text-emerald-600" size={24} />
         </div>
@@ -12,14 +12,14 @@ const Sidebar = ({ conversations, activeId, onNewChat, onSelectChat }) => {
           <h1 className="text-xl font-bold text-slate-800">MediAssist</h1>
           <p className="text-[10px] text-slate-500 font-medium uppercase tracking-tighter">AI Health Assistant</p>
         </div>
-      </div>
+      </a>
 
       <button
         onClick={onNewChat}
-        className="flex items-center justify-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-medium py-2.5 px-4 rounded-xl transition-all mb-6 shadow-sm active:scale-95"
+        className="flex items-center justify-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white font-medium py-2.5 px-4 rounded-xl transition-all mb-6 shadow-sm active:scale-98"
       >
         <Plus size={18} />
-        <span>New Consultation</span>
+        <span>New Chat</span>
       </button>
 
       <div className="flex-1 overflow-y-auto no-scrollbar">

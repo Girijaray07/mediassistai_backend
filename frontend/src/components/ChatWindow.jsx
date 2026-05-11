@@ -16,7 +16,7 @@ const ChatWindow = ({ messages, onPromptClick, isLoading }) => {
       {messages.length === 0 ? (
         <WelcomeScreen onPromptClick={onPromptClick} />
       ) : (
-        <div className="max-w-4xl mx-auto py-8 px-6">
+        <div className="max-w-5xl mx-auto py-8 px-6">
           {messages.map((msg, index) => (
             <MessageBubble key={index} role={msg.role} content={msg.content} />
           ))}
@@ -24,8 +24,8 @@ const ChatWindow = ({ messages, onPromptClick, isLoading }) => {
             <div className="flex justify-start mb-6">
               <div className="bg-slate-100 px-4 py-3 rounded-2xl rounded-tl-none shadow-sm flex gap-1">
                 <span className="w-1.5 h-1.5 bg-slate-400 rounded-full animate-bounce"></span>
-                <span className="w-1.5 h-1.5 bg-slate-400 rounded-full animate-bounce [animation-delay:0.2s]"></span>
                 <span className="w-1.5 h-1.5 bg-slate-400 rounded-full animate-bounce [animation-delay:0.4s]"></span>
+                <span className="w-1.5 h-1.5 bg-slate-400 rounded-full animate-bounce [animation-delay:0.6s]"></span>
               </div>
             </div>
           )}
