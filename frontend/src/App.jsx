@@ -71,7 +71,7 @@ function App() {
         const chunk = decoder.decode(value);
         aiText += chunk;
 
-        // 🔥 LIVE UPDATE MESSAGE
+        // LIVE UPDATE MESSAGE
         setConversations(prev =>
           prev.map(chat =>
             chat.id === currentId
@@ -111,7 +111,7 @@ function App() {
         onSelectChat={handleSelectChat}
       />
 
-      <div className="flex-1 ml-64 flex flex-col h-screen overflow-hidden">        
+      <div className="flex-1 ml-64 flex flex-col h-screen overflow-hidden">
         <ChatWindow 
           messages={messages} 
           onPromptClick={handleSendMessage} 
