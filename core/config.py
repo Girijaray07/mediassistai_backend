@@ -3,8 +3,8 @@ from typing import Optional
 
 class Settings(BaseSettings):
     PROJECT_NAME: str = "MediAssist AI"
-    VERSION: str = "0.1.0"
-    API_V1_STR: str = "/api/v1"
+    VERSION: str = "0.1.6"
+    API_V1_STR: str = "/api"
     
     GEMINI_API_KEY: str
     OPENROUTER_API_KEY: str
@@ -12,9 +12,6 @@ class Settings(BaseSettings):
     DATABASE_URL: str
     SUPABASE_URL : str
     SUPABASE_KEY : str
-    
-    OLLAMA_BASE_URL: str = "http://localhost:11434"
-    OLLAMA_MODEL: str = "gemma3:270m"
     
     SYSTEM_PROMPT: str = """
         You are MediAssist AI, an intelligent and friendly healthcare assistant developed by MediAssist.

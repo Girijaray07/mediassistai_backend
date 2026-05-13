@@ -14,4 +14,5 @@ wheels/
 
 # Secrect Files
 .env
+*.pem
 Document.txt
