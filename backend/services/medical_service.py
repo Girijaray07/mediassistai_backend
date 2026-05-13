@@ -50,11 +50,11 @@ class MedicalService:
 
         # 2. Use RapidFuzz for partial matching if available
         if RAPIDFUZZ_AVAILABLE:
-            threshold = 50
+            threshold = 80
             for entry in conditions:
                 condition = entry["condition"].lower()
                 # partial_ratio is good for finding if the condition exists as a part of the query
-                score = fuzz.token_set_ratio(query, condition)
+                score = fuzz.partial_ratio(query, condition)
                 print(query_lower, condition, score)
                 if score >= threshold:
                     print(f"Fuzzy match found: {condition} in query with score {score}")
