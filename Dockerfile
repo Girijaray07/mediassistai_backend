@@ -18,7 +18,7 @@ COPY pyproject.toml uv.lock ./
 # Install dependencies
 RUN uv sync --frozen --no-dev
 
-# Copy project files
+# Copy all project files
 COPY . .
 
 # Expose the port from docker container to 
