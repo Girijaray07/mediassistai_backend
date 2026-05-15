@@ -41,8 +41,7 @@ jobs:
           tags: |
             type=raw,value=latest
             type=sha
-            type=ref,event=branch
-            type=timestamp,pattern={{date 'YYYYMMDD-HHmmss'}}
+            type=raw,value=${{ github.run_number }}
 
       # Build & Push Docker image
       - name: Build and Push Docker Image
@@ -52,6 +51,8 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
 
       # Success Message
       - name: Deployment Status
