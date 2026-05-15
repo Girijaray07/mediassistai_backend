@@ -312,9 +312,7 @@ Includes:
 
 # 🌐 Production API
 
-```text
-https://api.mediassistai.girijaray.dev
-```
+👉 [https://api.mediassistai.girijaray.dev](https://api.mediassistai.girijaray.dev)
 
 ---
 
