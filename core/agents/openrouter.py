@@ -13,7 +13,7 @@ class OpenRouterAgent(BaseAgent):
         self.model_id = "inclusionai/ring-2.6-1t:free"
 
     def get_name(self) -> str:
-        return "Hermes3"
+        return "Ring-2.6-1t"
 
     async def generate_response(self, prompt: str) -> AsyncGenerator[str, None]:
         stream = self.client.chat.completions.create(
