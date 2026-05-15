@@ -40,7 +40,6 @@ jobs:
           images: ${{ env.IMAGE_NAME }}
           tags: |
             type=raw,value=latest
-            type=sha
             type=raw,value=${{ github.run_number }}
 
       # Build & Push Docker image
