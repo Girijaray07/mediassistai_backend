@@ -1,7 +1,7 @@
 from typing import Optional, List, Dict, Any
 from db.session import get_db_connection
 try:
-    from rapidfuzz import fuzz, process
+    from rapidfuzz import fuzz
     RAPIDFUZZ_AVAILABLE = True
 except ImportError:
     RAPIDFUZZ_AVAILABLE = False
