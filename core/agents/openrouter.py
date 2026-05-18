@@ -10,10 +10,10 @@ class OpenRouterAgent(BaseAgent):
             base_url="https://openrouter.ai/api/v1",
             api_key=settings.OPENROUTER_API_KEY,
         )
-        self.model_id = "inclusionai/ring-2.6-1t:free"
+        self.model_id = "nvidia/nemotron-3-nano-30b-a3b:free"
 
     def get_name(self) -> str:
-        return "Ring-2.6-1t"
+        return self.model_id
 
     async def generate_response(self, prompt: str) -> AsyncGenerator[str, None]:
         stream = self.client.chat.completions.create(
