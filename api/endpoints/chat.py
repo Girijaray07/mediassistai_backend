@@ -2,11 +2,16 @@ from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
 from schemas.chat import ChatRequest
 from services.agent_service import agent_service
-import httpx
 from core.config import settings
 from google import genai
+from datetime import datetime
+import httpx
 
 router = APIRouter()
+
+@router.get("/health")
+def health():
+    return {"success":True,"message": "MediAssist API is running", "timestamp":datetime.now()}
 
 @router.get("/models")
 async def list_models():
