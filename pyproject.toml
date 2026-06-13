@@ -24,6 +24,7 @@ dependencies = [
     "rapidfuzz>=3.14.5",
     "gunicorn>=26.0.0",
     "openai>=2.36.0",
+    "boto3>=1.43.9",
 ]
 
 [dependency-groups]
