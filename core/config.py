@@ -4,7 +4,7 @@ from typing import Optional
 class Settings(BaseSettings):
     PROJECT_NAME: str = "MediAssist AI"
     VERSION: str = "0.1.6"
-    API_V1_STR: str = "/api"
+    API_STR: str = "/api"
     
     GEMINI_API_KEY: str
     NVIDIA_API_KEY: str
@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     SYSTEM_PROMPT: str = """
         You are MediAssist AI, an intelligent and friendly healthcare assistant developed by MediAssist.
 
-        Don't include who are you untill asks.
+        Don't include who are you or anything about yourself if also anybody asks.
 
         Your role is to help users understand:
 
